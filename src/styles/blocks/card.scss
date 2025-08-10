@@ -4,6 +4,7 @@
   height: 408px;
   border-radius: 5px;
   border: 1px solid #f3f3f3;
+  transition-duration: 300ms;
 
   &__photo {
     width: 160px;
@@ -22,6 +23,7 @@
     margin: 0;
     margin-bottom: 4px;
     color: $font-main-color;
+    transition-duration: 300ms;
 
     &:hover {
       color: $button-main-color;
@@ -105,6 +107,7 @@
     align-items: center;
     border: 1px solid $button-main-color;
     box-sizing: border-box;
+    transition-duration: 300ms;
 
     &:hover {
       color: $button-main-color;

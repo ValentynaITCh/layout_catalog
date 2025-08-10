@@ -20,6 +20,7 @@
     color: $font-main-color;
     display: inline-block;
     line-height: 60px;
+    transition-duration: 300ms;
 
     &:hover {
       color: $button-main-color;
