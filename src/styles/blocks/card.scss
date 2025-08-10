@@ -34,7 +34,7 @@
     transform: scale(120%);
 
     & .card__title {
-      color: #34568b;
+      color: $card-title-hover-color;
     }
   }
 
